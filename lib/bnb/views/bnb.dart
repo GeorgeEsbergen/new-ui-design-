@@ -39,7 +39,7 @@ class _BNBState extends State<BNB> {
             CrystalNavigationBarItem(
               icon: IconlyLight.home,
               unselectedIcon: IconlyBroken.home,
-              selectedColor: Colors.red,
+              selectedColor: Colors.green,
               badge: Badge(
                 label: Text("9+", style: TextStyle(color: Colors.white)),
               ),

@@ -9,11 +9,9 @@ class ProfilePage extends StatelessWidget {
       child: DefaultTabController(
         length: 3,
 
-        asda
-
         child: Scaffold(
           appBar: AppBar(
-            title: Text("Whats app"),
+            title: Text("Telegram"),
             bottom: TabBar(
               isScrollable: false,
               padding: EdgeInsets.only(top: 10),
